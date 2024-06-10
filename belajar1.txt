@@ -1,0 +1,5 @@
+Resolusi Belajar
+1). Belajar HTML
+2). Belajar CSS
+3). Belajar Java Script
+4). Belajar Git
